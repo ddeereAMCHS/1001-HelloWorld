@@ -1,8 +1,7 @@
-# Template
+# Hello World
 
-- Create a program called `.java`
-- Prompt the user for 
+- Create a program called `HelloWorld.java`
+- Print out "Hello World" 
 
-***Example Input:***\
-\
 ***Example Output:***
+Hello World
